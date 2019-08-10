@@ -85,3 +85,5 @@ spotify-this-song,"I Want it That Way"
 
 Screen Shoots from BS
 ![screenshot](https://github.com/carlitosgithub/liri-node-app/blob/master/liri_movie.JPG)
+![screenshot 2](https://github.com/carlitosgithub/liri-node-app/blob/master/liri_spotify.JPG)
+
