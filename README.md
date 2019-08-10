@@ -84,36 +84,4 @@ Currently in random.txt, the following text is there:
 spotify-this-song,"I Want it That Way"
 
 Screen Shoots from BS
-
-This would call the spotify-this-song function and pass in "I Want it That Way" as the song.
-PS C:\Users\cmurillo\Documents\Class\homework 10\liri-node-app> node .\liri.js spotify-this-song always
-this is loaded
---------------------------------------------------------------------
-Artist(s): Chance the Rapper
-Song Name: I Got You (Always and Forever)
-Album Name: The Big Day
-Preview Link: https://p.scdn.co/mp3-preview/8f01573bee831ccace2d4b0da79d1ad6bdb6c4ca?cid=4fe42aa903974f3bb802c75e21618613
---------------------------------------------------------------------
-Artist(s): Mariah Carey
-Song Name: Always Be My Baby
-Album Name: Daydream
-Preview Link: https://p.scdn.co/mp3-preview/b1e31095de6722f08830226adaeaf91d54654bc5?cid=4fe42aa903974f3bb802c75e21618613
---------------------------------------------------------------------
-Artist(s): Lady Gaga
-Song Name: Always Remember Us This Way
-
-PS C:\Users\cmurillo\Documents\Class\homework 10\liri-node-app> node .\liri.js movie-this  avatar
-this is loaded
---------------------------------------------------------------------
-Movie Title: Avatar
-Year of Release: 2009
-IMDB Rating: 7.8
-Rotten Tomatoes Rating: 82%
-Country Produced: UK, USA
-Language: English, Spanish
-Plot: A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.
-Actors/Actresses: Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang
-
-
-
-
+![screenshot](https://github.com/carlitosgithub/liri-node-app/blob/master/liri_movie.JPG)
